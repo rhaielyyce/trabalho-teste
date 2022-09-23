@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+
+}
+body{
+    background-color:#26242C;
+    display: flex;
+
+}
+#content{
+    margin: 7rem auto;
+}
+
+    
+
+#esquerdo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#logo{
+    width: 500px;
+    height: 129px;
+    display: flex;
+   
+    
+    
+    
+}
+#textinho{
+    color: white;
+    margin-top: 70px;
+    font-size: 13px;
+    align-content: space-between;
+    width: 350px;
+    height: 250px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#letra{
+    font-weight: 300;
+}
+
+div span{
+    font-weight: 700;
+}
+
+#esquerdo p{
+    color: #7D7A87;
+    font-size: 12px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+#fotinha{
+    align-content: space-between;
+    display: flex;  
+    height: 400px;
+    width: 400px;
+    margin-top: -40px;
+    margin-left: 100px;
+
+}
+#forma{
+    border-radius: 60px;
+    display: flex;
+    
+
+   
+}
+#email{
+    width: 500px;
+height: 60px;
+border-radius: 10px;
+padding-left: 20px;
+
+}
+button{
+    color: white;
+    background-color: #04D361;
+    width: 300px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 15px;
+
+}
+#dese{
+    font-family: 'Poppins' , sans-serif;
+    display: flex;
+    font-size: 10px;
+    color: #04D361;
+    margin-left: 60px;
+    margin-top: 20px;
+}
